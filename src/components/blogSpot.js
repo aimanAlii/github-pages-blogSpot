@@ -19,7 +19,7 @@ export default function Blog (){
          <Switch>
 
             <Route exact path="/">
-              <Timeline/>
+              <Home/>
             </Route>
 
             <Route exact path="/addPost">
