@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/github-pages-blogSpot/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/github-pages-blogSpot/static/js/main.245432f4.chunk.js",
-    "main.js.map": "/github-pages-blogSpot/static/js/main.245432f4.chunk.js.map",
+    "main.js": "/github-pages-blogSpot/static/js/main.bf6c4758.chunk.js",
+    "main.js.map": "/github-pages-blogSpot/static/js/main.bf6c4758.chunk.js.map",
     "runtime-main.js": "/github-pages-blogSpot/static/js/runtime-main.877fbdf7.js",
     "runtime-main.js.map": "/github-pages-blogSpot/static/js/runtime-main.877fbdf7.js.map",
     "static/js/2.975dc4cd.chunk.js": "/github-pages-blogSpot/static/js/2.975dc4cd.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.877fbdf7.js",
     "static/js/2.975dc4cd.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.245432f4.chunk.js"
+    "static/js/main.bf6c4758.chunk.js"
   ]
 }
