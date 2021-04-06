@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/github-pages-blogSpot/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/github-pages-blogSpot/static/js/main.bf6c4758.chunk.js",
-    "main.js.map": "/github-pages-blogSpot/static/js/main.bf6c4758.chunk.js.map",
-    "runtime-main.js": "/github-pages-blogSpot/static/js/runtime-main.877fbdf7.js",
-    "runtime-main.js.map": "/github-pages-blogSpot/static/js/runtime-main.877fbdf7.js.map",
-    "static/js/2.975dc4cd.chunk.js": "/github-pages-blogSpot/static/js/2.975dc4cd.chunk.js",
-    "static/js/2.975dc4cd.chunk.js.map": "/github-pages-blogSpot/static/js/2.975dc4cd.chunk.js.map",
-    "static/js/3.a5e90808.chunk.js": "/github-pages-blogSpot/static/js/3.a5e90808.chunk.js",
-    "static/js/3.a5e90808.chunk.js.map": "/github-pages-blogSpot/static/js/3.a5e90808.chunk.js.map",
+    "main.js": "/github-pages-blogSpot/static/js/main.265c2e0f.chunk.js",
+    "main.js.map": "/github-pages-blogSpot/static/js/main.265c2e0f.chunk.js.map",
+    "runtime-main.js": "/github-pages-blogSpot/static/js/runtime-main.11a91d4f.js",
+    "runtime-main.js.map": "/github-pages-blogSpot/static/js/runtime-main.11a91d4f.js.map",
+    "static/js/2.260fa312.chunk.js": "/github-pages-blogSpot/static/js/2.260fa312.chunk.js",
+    "static/js/2.260fa312.chunk.js.map": "/github-pages-blogSpot/static/js/2.260fa312.chunk.js.map",
+    "static/js/3.971bb30f.chunk.js": "/github-pages-blogSpot/static/js/3.971bb30f.chunk.js",
+    "static/js/3.971bb30f.chunk.js.map": "/github-pages-blogSpot/static/js/3.971bb30f.chunk.js.map",
     "index.html": "/github-pages-blogSpot/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/github-pages-blogSpot/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.975dc4cd.chunk.js.LICENSE.txt": "/github-pages-blogSpot/static/js/2.975dc4cd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/github-pages-blogSpot/static/media/logo.6ce24c58.svg"
+    "static/js/2.260fa312.chunk.js.LICENSE.txt": "/github-pages-blogSpot/static/js/2.260fa312.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.877fbdf7.js",
-    "static/js/2.975dc4cd.chunk.js",
+    "static/js/runtime-main.11a91d4f.js",
+    "static/js/2.260fa312.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.bf6c4758.chunk.js"
+    "static/js/main.265c2e0f.chunk.js"
   ]
 }
